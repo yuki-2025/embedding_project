@@ -1,0 +1,22 @@
+transformers
+evaluate
+bitsandbytes
+pandas 
+tqdm
+peft
+matplotlib
+accelerate   
+numpy 
+datasets
+pandas 
+pyarrow 
+psycopg2-binary
+
+# Metrics and evaluation
+rouge-score
+
+scikit-learn
+ipywidgets
+#jupyter nbextension enable --py widgetsnbextension
+
+ 
